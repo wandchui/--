@@ -1,1 +1,1 @@
-利用zoomeye的api爬取IP和site数据的脚本。
+利用zoomeye的api登录获取IP和site数据的脚本。
